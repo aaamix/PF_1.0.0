@@ -181,6 +181,7 @@ body{
   margin-bottom: 40px;
   letter-spacing: .08em;
   color: #320d60;
+  left: 20%
 }
 .main-visual-text{
   position: absolute;
@@ -422,7 +423,7 @@ position: relative;
 
 /*media Queries 767
 ----------------------------------------------------*/
-@media screen and (max-width: 767px) {
+@media screen and (max-width: 480px) {
   body {
     font-size: 13px;
     line-height: 1.7;
@@ -490,10 +491,14 @@ position: relative;
 
   .main-visual-title {
     font-size: 30px;
+  left:40%;
   }
   .main-visual-subtitle {
     font-size: 16px;
     margin-bottom: 20px;
+    font-weight: bold;
+  line-height: 1.2;
+  left: 35%;
   }
 
   /* Works */
