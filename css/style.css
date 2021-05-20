@@ -43,9 +43,9 @@ li {
   padding: 90px 0;
 }
 
-.section:nth-of-type(odd) {
-  background-color:#FFBFB7; /*ABOUT*/
-}
+/*.section:nth-of-type(odd) {
+  background-color:#FFBFB7; *//*ABOUT*/
+
 
 .inner {
   max-width: 1340px;
@@ -221,7 +221,9 @@ position: relative;
 
 .works-img img {
   border: 1px solid #e6e6e6;
+ 
 }
+ 
 
 .works-name {
   font-size: 12px;
