@@ -529,10 +529,12 @@ position: relative;
   }
 
   .skill-item {
-    width: 100%;
+    width: 80%;
     margin-bottom: 35px;
   }
-
+.skill-name{
+  text-align: left
+}
   .skill-item:last-child {
     margin-bottom: 0;
   }
