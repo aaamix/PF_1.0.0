@@ -181,7 +181,7 @@ body{
   margin-bottom: 40px;
   letter-spacing: .08em;
   color: #320d60;
-  left: 20%
+ 
 }
 .main-visual-text{
   position: absolute;
@@ -499,6 +499,11 @@ position: relative;
     font-weight: bold;
   line-height: 1.2;
   left: 35%;
+  }
+
+  .main-visual-text {
+    font-size: 10px;
+  left:25%;
   }
 
   /* Works */
